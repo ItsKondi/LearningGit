@@ -26,4 +26,5 @@ for number in range(0, 101):
         their_power_of_3.append(power_3)
 print(divided_by_5)
 print(their_power_of_3)
-print("Cześć to ja")
+
+
