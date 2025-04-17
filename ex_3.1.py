@@ -30,3 +30,4 @@ print("Cześć to ja")
 print("Pozdrowienia z Kosmosu!")
 
 
+
