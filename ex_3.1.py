@@ -27,3 +27,6 @@ for number in range(0, 101):
 print(divided_by_5)
 print(their_power_of_3)
 print("Cześć to ja")
+print("Pozdrowienia z Kosmosu!")
+
+
